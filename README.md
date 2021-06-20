@@ -10,6 +10,8 @@ The main challenge finding the correct excel spreadsheet. Then understanding how
 
 ### Analysis of Outcomes Based on Launch Date
 
+![alt text](https://github.com/sarifrey/kickstarter-analysis/tree/main/resources/Outcomes_vs_Goals.png?raw=true)
+
 The best time to launch a theater campaign is in  May and June. The least successful launch date is December.
 
 ### Analysis of Outcomes Based on Goals
@@ -41,4 +43,3 @@ The dataset doesn't take into consideration what audiences want to see and like.
 - What are some other possible tables and/or graphs that we could create?
 
 The number of successful and failed television campaigns would be interesting to see. Then compare that to the theater success/failure rate. 
-\
