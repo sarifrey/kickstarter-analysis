@@ -2,23 +2,29 @@
 
 ## Overview of Project
 
+This project looks at how various campaigns performed relative to the launch dates and funding goals. The Kickstarter dataset was used for the analysis
+
+
 ### Purpose
-Indentify/help Louise how the various campaigns goals fared in realtion to launch dates and funding goals (straight from background information)
+Louise wants to see how the other theater campaigns did relative to her play Fever's campaign.
 
 ## Analysis and Challenges
 The main challenge finding the correct excel spreadsheet. Then understanding how to correctly create the formulas and charts. 
 
 ### Analysis of Outcomes Based on Launch Date
 
-![alt text](https://github.com/sarifrey/kickstarter-analysis/tree/main/resources/Outcomes_vs_Goals.png?raw=true)
-
 The best time to launch a theater campaign is in  May and June. The least successful launch date is December.
+
+![alt text](https://github.com/sarifrey/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
 Campaign goals leas than $4999 were successful over 70% of the time. The most successful campaigns were less than $1,000 so a 76% success rate.
 Campaigns over $50,000 failed 88% of the time. There was a total of 16 campaigns over $50,000. That higher amount campaign was the least successful.
 There was one campaign between $45,000 to $49,000 that was the anomaly of having one campaign. The one campaign failed.
+
+![alt text](https://github.com/sarifrey/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 The challenge was understanding how to read the charts. The critical thinking that goes into interpreting the results of the charts.
